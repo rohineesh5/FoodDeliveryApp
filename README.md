@@ -24,7 +24,7 @@ Version Control: Git & GitHub# FoodDeliveryApp
 ## Run locally
 
 1. Install Java 17 or newer, Maven, MySQL 8, and Apache Tomcat 10.1.
-2. Create a MySQL database named `food` and update the credentials in `FoodApp/src/main/java/com/foodapp/util/DBConnection.java` if needed. The current configuration expects `root` with password `123$5678`.
+2. Create a MySQL database named `food` and update the credentials in `FoodApp/src/main/java/com/foodapp/util/DBConnection.java` if needed. The current configuration expects `root` with password `null`.
 3. From the `FoodApp` directory, build the application:
 
 	```text
